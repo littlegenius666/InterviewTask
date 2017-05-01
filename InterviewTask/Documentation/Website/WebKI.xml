@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="driver field" Url="html/bf946312-ee21-4d8f-d8ad-d58e66005d56.htm" />
+  <HelpKINode Title="DriverExtension class">
+    <HelpKINode Title="DriverExtension Class" Url="html/f3a9d094-7f05-58a7-b607-51c7a5ce8d00.htm" />
+    <HelpKINode Title="about DriverExtension class" Url="html/f3a9d094-7f05-58a7-b607-51c7a5ce8d00.htm" />
+    <HelpKINode Title="methods" Url="html/8293f39c-67fd-2415-bf58-e25232bd11c8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DriverExtension.WaitAndClickable method" Url="html/72901093-6476-5644-7082-7027fba7415f.htm" />
+  <HelpKINode Title="goToTheCheapestShop method" Url="html/60331652-2b8b-b5e8-599b-e3b3dbe03cd7.htm" />
+  <HelpKINode Title="hideFooter method" Url="html/34bc6de2-594a-eefc-8522-d9bd0314292b.htm" />
+  <HelpKINode Title="hideFooterButton property" Url="html/c717ce89-9d71-f25f-1a3a-f56f8ff0096c.htm" />
+  <HelpKINode Title="HIDE_FOOTER_BUTTON_LOCATOR field" Url="html/2a9c68d4-0834-d110-a5e0-4aca44e459f7.htm" />
+  <HelpKINode Title="HotlinePage class">
+    <HelpKINode Title="HotlinePage Class" Url="html/b2317319-81b9-b613-3f71-b90ca0cd67b1.htm" />
+    <HelpKINode Title="about HotlinePage class" Url="html/b2317319-81b9-b613-3f71-b90ca0cd67b1.htm" />
+    <HelpKINode Title="constructor" Url="html/95e3f10a-b495-2917-e9c3-2a3e0f2dbc21.htm" />
+    <HelpKINode Title="fields" Url="html/829df48b-afd1-695e-c241-fc212d718a1f.htm" />
+    <HelpKINode Title="methods" Url="html/bc8531a6-ba99-6042-7682-dd71dd70cdfc.htm" />
+    <HelpKINode Title="properties" Url="html/63e00f63-6276-a29d-b902-ac45f01e4b54.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HotlinePage.driver field" Url="html/bf946312-ee21-4d8f-d8ad-d58e66005d56.htm" />
+  <HelpKINode Title="HotlinePage.hideFooter method" Url="html/34bc6de2-594a-eefc-8522-d9bd0314292b.htm" />
+  <HelpKINode Title="HotlinePage.hideFooterButton property" Url="html/c717ce89-9d71-f25f-1a3a-f56f8ff0096c.htm" />
+  <HelpKINode Title="HotlinePage.HIDE_FOOTER_BUTTON_LOCATOR field" Url="html/2a9c68d4-0834-d110-a5e0-4aca44e459f7.htm" />
+  <HelpKINode Title="HotlinePage.HotlinePage constructor" Url="html/95e3f10a-b495-2917-e9c3-2a3e0f2dbc21.htm" />
+  <HelpKINode Title="HotlinePage.searchBox property" Url="html/df0c6f54-8e4d-c519-fc9e-1b5be8016d7d.htm" />
+  <HelpKINode Title="HotlinePage.searchButton property" Url="html/026a9fa4-9012-59d9-842d-669325fa3bf9.htm" />
+  <HelpKINode Title="HotlinePage.searchFor method" Url="html/67b441fd-8a58-64e4-4f40-3d1a4efcde39.htm" />
+  <HelpKINode Title="HotlinePage.SEARCH_BOX_LOCATOR field" Url="html/d053d78d-3038-62f0-9247-81bd23678620.htm" />
+  <HelpKINode Title="HotlinePage.SEARCH_BUTTON_LOCATOR field" Url="html/add4a103-c1c2-46d2-b6b9-2fc0927d36c3.htm" />
+  <HelpKINode Title="HotlinePage.typeInSearchBox method" Url="html/3c24bba2-bf95-62b7-6566-2da7758de49e.htm" />
+  <HelpKINode Title="InterviewTask namespace" Url="html/d0badb4d-f06a-f44d-63d8-015391df565a.htm" />
+  <HelpKINode Title="InterviewTask.DriverExtension class" Url="html/f3a9d094-7f05-58a7-b607-51c7a5ce8d00.htm" />
+  <HelpKINode Title="InterviewTask.HotlinePage class" Url="html/b2317319-81b9-b613-3f71-b90ca0cd67b1.htm" />
+  <HelpKINode Title="InterviewTask.ItemPage class" Url="html/d5971c2f-f4eb-5047-9cb2-493c9e6b66ab.htm" />
+  <HelpKINode Title="InterviewTask.TestScriptsForHotline(Of TWebDriver) class" Url="html/4454b9b8-a1e4-b1f1-7e41-6b4ef92f2bfe.htm" />
+  <HelpKINode Title="InterviewTask.TestScriptsForHotline&lt;TWebDriver&gt; class" Url="html/4454b9b8-a1e4-b1f1-7e41-6b4ef92f2bfe.htm" />
+  <HelpKINode Title="ItemPage class">
+    <HelpKINode Title="ItemPage Class" Url="html/d5971c2f-f4eb-5047-9cb2-493c9e6b66ab.htm" />
+    <HelpKINode Title="about ItemPage class" Url="html/d5971c2f-f4eb-5047-9cb2-493c9e6b66ab.htm" />
+    <HelpKINode Title="constructor" Url="html/18e92074-7749-90dc-8a6a-80a2a4f62fd0.htm" />
+    <HelpKINode Title="fields" Url="html/7d30545f-7495-7b55-ccf5-670bfe99b51c.htm" />
+    <HelpKINode Title="methods" Url="html/e91f5d4e-e359-866a-b223-249d2b96ad68.htm" />
+    <HelpKINode Title="properties" Url="html/8ae38d36-291e-dfb8-7f48-ff3032f69e38.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ItemPage.goToTheCheapestShop method" Url="html/60331652-2b8b-b5e8-599b-e3b3dbe03cd7.htm" />
+  <HelpKINode Title="ItemPage.ItemPage constructor" Url="html/18e92074-7749-90dc-8a6a-80a2a4f62fd0.htm" />
+  <HelpKINode Title="ItemPage.pricesLink property" Url="html/6dbabc0a-baef-33e2-4397-6f62b866b6ea.htm" />
+  <HelpKINode Title="ItemPage.PRICES_LINK_LOCATOR field" Url="html/4d98319a-a87c-08e8-e312-48c17dd71303.htm" />
+  <HelpKINode Title="ItemPage.reviewsLink property" Url="html/fa1a1f5f-4e69-fc6b-e5d6-5feac69c8cc5.htm" />
+  <HelpKINode Title="ItemPage.REVIEWS_LINK_LOCATOR field" Url="html/0fc093a8-c228-bbc3-02e0-39fcf1d3b29f.htm" />
+  <HelpKINode Title="ItemPage.shopLinks property" Url="html/48e6e838-23c0-bd83-c400-f42f6d2bc199.htm" />
+  <HelpKINode Title="ItemPage.SHOP_LINKS_LOCATOR field" Url="html/fb221c81-c616-e3c0-ae05-751e0195646d.htm" />
+  <HelpKINode Title="ItemPage.sortByPriceButton property" Url="html/937bcd59-c4d6-16ac-84d1-6a8535f637a0.htm" />
+  <HelpKINode Title="ItemPage.sortByPrices method" Url="html/2f999adf-5d8f-25f4-9c91-77f3ca97bc4c.htm" />
+  <HelpKINode Title="ItemPage.SORT_BY_PRICE_BUTTON_LOCATOR field" Url="html/f47b21eb-4b66-74ac-cb09-416afe636f8d.htm" />
+  <HelpKINode Title="ItemPage.viewPrices method" Url="html/f5c8e3dc-6b8e-a5c5-b3af-6cbff2ee55be.htm" />
+  <HelpKINode Title="ItemPage.viewReviews method" Url="html/e825c045-2304-16e6-95bf-6530b5f8c1ec.htm" />
+  <HelpKINode Title="pricesLink property" Url="html/6dbabc0a-baef-33e2-4397-6f62b866b6ea.htm" />
+  <HelpKINode Title="PRICES_LINK_LOCATOR field" Url="html/4d98319a-a87c-08e8-e312-48c17dd71303.htm" />
+  <HelpKINode Title="reviewsLink property" Url="html/fa1a1f5f-4e69-fc6b-e5d6-5feac69c8cc5.htm" />
+  <HelpKINode Title="REVIEWS_LINK_LOCATOR field" Url="html/0fc093a8-c228-bbc3-02e0-39fcf1d3b29f.htm" />
+  <HelpKINode Title="searchBox property" Url="html/df0c6f54-8e4d-c519-fc9e-1b5be8016d7d.htm" />
+  <HelpKINode Title="searchButton property" Url="html/026a9fa4-9012-59d9-842d-669325fa3bf9.htm" />
+  <HelpKINode Title="searchFor method" Url="html/67b441fd-8a58-64e4-4f40-3d1a4efcde39.htm" />
+  <HelpKINode Title="SEARCH_BOX_LOCATOR field" Url="html/d053d78d-3038-62f0-9247-81bd23678620.htm" />
+  <HelpKINode Title="SEARCH_BUTTON_LOCATOR field" Url="html/add4a103-c1c2-46d2-b6b9-2fc0927d36c3.htm" />
+  <HelpKINode Title="shopLinks property" Url="html/48e6e838-23c0-bd83-c400-f42f6d2bc199.htm" />
+  <HelpKINode Title="SHOP_LINKS_LOCATOR field" Url="html/fb221c81-c616-e3c0-ae05-751e0195646d.htm" />
+  <HelpKINode Title="sortByPriceButton property" Url="html/937bcd59-c4d6-16ac-84d1-6a8535f637a0.htm" />
+  <HelpKINode Title="sortByPrices method" Url="html/2f999adf-5d8f-25f4-9c91-77f3ca97bc4c.htm" />
+  <HelpKINode Title="SORT_BY_PRICE_BUTTON_LOCATOR field" Url="html/f47b21eb-4b66-74ac-cb09-416afe636f8d.htm" />
+  <HelpKINode Title="TestCheapestPriceForItem method" Url="html/47856cd6-ee9a-a2a2-ecc9-34af15212e1e.htm" />
+  <HelpKINode Title="TestScriptsForHotline(Of TWebDriver) class">
+    <HelpKINode Title="TestScriptsForHotline(TWebDriver) Class" Url="html/4454b9b8-a1e4-b1f1-7e41-6b4ef92f2bfe.htm" />
+    <HelpKINode Title="about TestScriptsForHotline(Of TWebDriver) class" Url="html/4454b9b8-a1e4-b1f1-7e41-6b4ef92f2bfe.htm" />
+    <HelpKINode Title="constructor" Url="html/11b76e41-f45e-bda1-6d5e-e2b7afc15dc4.htm" />
+    <HelpKINode Title="methods" Url="html/91f4bcd4-bc59-6841-15fb-31ab60afbed4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TestScriptsForHotline(Of TWebDriver).TestCheapestPriceForItem method" Url="html/47856cd6-ee9a-a2a2-ecc9-34af15212e1e.htm" />
+  <HelpKINode Title="TestScriptsForHotline(Of TWebDriver).TestScriptsForHotline constructor" Url="html/11b76e41-f45e-bda1-6d5e-e2b7afc15dc4.htm" />
+  <HelpKINode Title="TestScriptsForHotline(Of TWebDriver).TestSearch method" Url="html/7ab2809d-32bb-6794-b0d5-ffeda4361420.htm" />
+  <HelpKINode Title="TestScriptsForHotline(Of TWebDriver).TestsSetUp method" Url="html/bbb06ed4-bc2e-186c-fd9f-09a334c3e09a.htm" />
+  <HelpKINode Title="TestScriptsForHotline(Of TWebDriver).TestViewAllReviewsForItem method" Url="html/91f66ee0-7d4c-ed95-463b-b81a87e15167.htm" />
+  <HelpKINode Title="TestScriptsForHotline&lt;TWebDriver&gt; class">
+    <HelpKINode Title="TestScriptsForHotline(TWebDriver) Class" Url="html/4454b9b8-a1e4-b1f1-7e41-6b4ef92f2bfe.htm" />
+    <HelpKINode Title="about TestScriptsForHotline&lt;TWebDriver&gt; class" Url="html/4454b9b8-a1e4-b1f1-7e41-6b4ef92f2bfe.htm" />
+    <HelpKINode Title="constructor" Url="html/11b76e41-f45e-bda1-6d5e-e2b7afc15dc4.htm" />
+    <HelpKINode Title="methods" Url="html/91f4bcd4-bc59-6841-15fb-31ab60afbed4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TestScriptsForHotline&lt;TWebDriver&gt;.TestCheapestPriceForItem method" Url="html/47856cd6-ee9a-a2a2-ecc9-34af15212e1e.htm" />
+  <HelpKINode Title="TestScriptsForHotline&lt;TWebDriver&gt;.TestScriptsForHotline constructor" Url="html/11b76e41-f45e-bda1-6d5e-e2b7afc15dc4.htm" />
+  <HelpKINode Title="TestScriptsForHotline&lt;TWebDriver&gt;.TestSearch method" Url="html/7ab2809d-32bb-6794-b0d5-ffeda4361420.htm" />
+  <HelpKINode Title="TestScriptsForHotline&lt;TWebDriver&gt;.TestsSetUp method" Url="html/bbb06ed4-bc2e-186c-fd9f-09a334c3e09a.htm" />
+  <HelpKINode Title="TestScriptsForHotline&lt;TWebDriver&gt;.TestViewAllReviewsForItem method" Url="html/91f66ee0-7d4c-ed95-463b-b81a87e15167.htm" />
+  <HelpKINode Title="TestSearch method" Url="html/7ab2809d-32bb-6794-b0d5-ffeda4361420.htm" />
+  <HelpKINode Title="TestsSetUp method" Url="html/bbb06ed4-bc2e-186c-fd9f-09a334c3e09a.htm" />
+  <HelpKINode Title="TestViewAllReviewsForItem method" Url="html/91f66ee0-7d4c-ed95-463b-b81a87e15167.htm" />
+  <HelpKINode Title="typeInSearchBox method" Url="html/3c24bba2-bf95-62b7-6566-2da7758de49e.htm" />
+  <HelpKINode Title="viewPrices method" Url="html/f5c8e3dc-6b8e-a5c5-b3af-6cbff2ee55be.htm" />
+  <HelpKINode Title="viewReviews method" Url="html/e825c045-2304-16e6-95bf-6530b5f8c1ec.htm" />
+  <HelpKINode Title="WaitAndClickable method" Url="html/72901093-6476-5644-7082-7027fba7415f.htm" />
+</HelpKI>

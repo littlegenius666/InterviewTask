@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="72d7cb4a-9da9-4f8f-8f7c-0f29e00823e1" Title="Namespaces" Url="html/240cb017-7fcf-e1a5-b16b-8c5ab45fec04.htm">
+    <HelpTOCNode Id="583444a3-2325-4744-80d1-3aefaa813af7" Title="InterviewTask" Url="html/d0badb4d-f06a-f44d-63d8-015391df565a.htm">
+      <HelpTOCNode Id="c9c29a50-5a30-4a07-8e81-9ee602549ca6" Title="DriverExtension Class" Url="html/f3a9d094-7f05-58a7-b607-51c7a5ce8d00.htm">
+        <HelpTOCNode Id="6c6cd3e7-0a5b-4937-9036-45a5d0581ef8" Title="DriverExtension Methods" Url="html/8293f39c-67fd-2415-bf58-e25232bd11c8.htm">
+          <HelpTOCNode Title="WaitAndClickable Method " Url="html/72901093-6476-5644-7082-7027fba7415f.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="bf7c75cf-9cfb-42cb-a6a3-f0c2ae6d0bf4" Title="HotlinePage Class" Url="html/b2317319-81b9-b613-3f71-b90ca0cd67b1.htm">
+        <HelpTOCNode Title="HotlinePage Constructor " Url="html/95e3f10a-b495-2917-e9c3-2a3e0f2dbc21.htm" />
+        <HelpTOCNode Id="e8e48cc9-7919-4d55-a7b7-5cce0498145f" Title="HotlinePage Properties" Url="html/63e00f63-6276-a29d-b902-ac45f01e4b54.htm">
+          <HelpTOCNode Title="hideFooterButton Property " Url="html/c717ce89-9d71-f25f-1a3a-f56f8ff0096c.htm" />
+          <HelpTOCNode Title="searchBox Property " Url="html/df0c6f54-8e4d-c519-fc9e-1b5be8016d7d.htm" />
+          <HelpTOCNode Title="searchButton Property " Url="html/026a9fa4-9012-59d9-842d-669325fa3bf9.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e3b49d7f-c321-4ce8-84cc-79533d3686f1" Title="HotlinePage Methods" Url="html/bc8531a6-ba99-6042-7682-dd71dd70cdfc.htm">
+          <HelpTOCNode Title="hideFooter Method " Url="html/34bc6de2-594a-eefc-8522-d9bd0314292b.htm" />
+          <HelpTOCNode Title="searchFor Method " Url="html/67b441fd-8a58-64e4-4f40-3d1a4efcde39.htm" />
+          <HelpTOCNode Title="typeInSearchBox Method " Url="html/3c24bba2-bf95-62b7-6566-2da7758de49e.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6d654ca3-ab52-4e28-b167-98d6e23d8e2a" Title="HotlinePage Fields" Url="html/829df48b-afd1-695e-c241-fc212d718a1f.htm">
+          <HelpTOCNode Title="driver Field" Url="html/bf946312-ee21-4d8f-d8ad-d58e66005d56.htm" />
+          <HelpTOCNode Title="HIDE_FOOTER_BUTTON_LOCATOR Field" Url="html/2a9c68d4-0834-d110-a5e0-4aca44e459f7.htm" />
+          <HelpTOCNode Title="SEARCH_BOX_LOCATOR Field" Url="html/d053d78d-3038-62f0-9247-81bd23678620.htm" />
+          <HelpTOCNode Title="SEARCH_BUTTON_LOCATOR Field" Url="html/add4a103-c1c2-46d2-b6b9-2fc0927d36c3.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="10799c0a-69e4-4c16-b2f1-4e8de3e938f2" Title="ItemPage Class" Url="html/d5971c2f-f4eb-5047-9cb2-493c9e6b66ab.htm">
+        <HelpTOCNode Title="ItemPage Constructor " Url="html/18e92074-7749-90dc-8a6a-80a2a4f62fd0.htm" />
+        <HelpTOCNode Id="de89b25b-bf7c-4384-8118-05808aa71299" Title="ItemPage Properties" Url="html/8ae38d36-291e-dfb8-7f48-ff3032f69e38.htm">
+          <HelpTOCNode Title="pricesLink Property " Url="html/6dbabc0a-baef-33e2-4397-6f62b866b6ea.htm" />
+          <HelpTOCNode Title="reviewsLink Property " Url="html/fa1a1f5f-4e69-fc6b-e5d6-5feac69c8cc5.htm" />
+          <HelpTOCNode Title="shopLinks Property " Url="html/48e6e838-23c0-bd83-c400-f42f6d2bc199.htm" />
+          <HelpTOCNode Title="sortByPriceButton Property " Url="html/937bcd59-c4d6-16ac-84d1-6a8535f637a0.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6de7c13b-b595-4657-b1d4-9f9233d622ab" Title="ItemPage Methods" Url="html/e91f5d4e-e359-866a-b223-249d2b96ad68.htm">
+          <HelpTOCNode Title="goToTheCheapestShop Method " Url="html/60331652-2b8b-b5e8-599b-e3b3dbe03cd7.htm" />
+          <HelpTOCNode Title="sortByPrices Method " Url="html/2f999adf-5d8f-25f4-9c91-77f3ca97bc4c.htm" />
+          <HelpTOCNode Title="viewPrices Method " Url="html/f5c8e3dc-6b8e-a5c5-b3af-6cbff2ee55be.htm" />
+          <HelpTOCNode Title="viewReviews Method " Url="html/e825c045-2304-16e6-95bf-6530b5f8c1ec.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="de6f926d-1ebe-4296-a9fb-50a93cde4bc2" Title="ItemPage Fields" Url="html/7d30545f-7495-7b55-ccf5-670bfe99b51c.htm">
+          <HelpTOCNode Title="PRICES_LINK_LOCATOR Field" Url="html/4d98319a-a87c-08e8-e312-48c17dd71303.htm" />
+          <HelpTOCNode Title="REVIEWS_LINK_LOCATOR Field" Url="html/0fc093a8-c228-bbc3-02e0-39fcf1d3b29f.htm" />
+          <HelpTOCNode Title="SHOP_LINKS_LOCATOR Field" Url="html/fb221c81-c616-e3c0-ae05-751e0195646d.htm" />
+          <HelpTOCNode Title="SORT_BY_PRICE_BUTTON_LOCATOR Field" Url="html/f47b21eb-4b66-74ac-cb09-416afe636f8d.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="02fa9a1b-1b0e-4d82-86e5-a69263b5924d" Title="TestScriptsForHotline(TWebDriver) Class" Url="html/4454b9b8-a1e4-b1f1-7e41-6b4ef92f2bfe.htm">
+        <HelpTOCNode Title="TestScriptsForHotline(TWebDriver) Constructor " Url="html/11b76e41-f45e-bda1-6d5e-e2b7afc15dc4.htm" />
+        <HelpTOCNode Id="dedb31f7-bbce-4101-abc0-ee40c81a1ef8" Title="TestScriptsForHotline(TWebDriver) Methods" Url="html/91f4bcd4-bc59-6841-15fb-31ab60afbed4.htm">
+          <HelpTOCNode Title="TestCheapestPriceForItem Method " Url="html/47856cd6-ee9a-a2a2-ecc9-34af15212e1e.htm" />
+          <HelpTOCNode Title="TestSearch Method " Url="html/7ab2809d-32bb-6794-b0d5-ffeda4361420.htm" />
+          <HelpTOCNode Title="TestsSetUp Method " Url="html/bbb06ed4-bc2e-186c-fd9f-09a334c3e09a.htm" />
+          <HelpTOCNode Title="TestViewAllReviewsForItem Method " Url="html/91f66ee0-7d4c-ed95-463b-b81a87e15167.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
